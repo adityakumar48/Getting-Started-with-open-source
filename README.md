@@ -344,6 +344,7 @@ git clear
  - ### **S** <br>
    - [Siddharth Parashar](https://github.com/sidparashar2001) 
  - ### **T** <br>
+ - [Tarun Kumar](https://github.com/ktarun1681)
  - ### **U** <br>
  - ### **V** <br>
    - [Visinigiri Aditya](https://github.com/adityakumar48)
